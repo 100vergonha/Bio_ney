@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#0E0E0E;
+}
+header{
+    display: flex;
+    color: #b6babe;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    height: 650px;
+    width: auto;
+}
+.title{
+    display: flex;
+    flex-direction:column;
+    padding-left: 20px;
+}
+p{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: #b6babe;
+}
+.bio{
+    font-size: 15px;
+    color: #b6babe;
+    text-align:left;
+}
