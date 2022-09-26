@@ -8,8 +8,8 @@ header{
     color: #b6babe;
 }
 .container{
-    display: flex;
-    justify-content: space-between;
+    display: block;
+    justify-content:center;
 }
 img{
     height: 650px;
@@ -19,9 +19,6 @@ img{
     display: flex;
     flex-direction:column;
     padding-left: 20px;
-}
-p{
-    text-align: justify;
 }
 a{
     text-decoration: none;
